@@ -174,4 +174,4 @@ elif choice == "area of ​​a trapezoid":
     
     
     
-copyright=['Hussain301']
+
